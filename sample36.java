@@ -1,0 +1,10 @@
+class sample36
+{
+    public static void main(String[] args)
+    {
+        for(int i=1; i<=5; i++){
+        System.out.println(i + "”Ô–Ú‚ðˆ—‚µ‚Ä‚¢‚Ü‚·B");
+    }
+        System.out.println("ˆ—‚ðI—¹‚·‚é");
+    }
+}
